@@ -14,6 +14,12 @@ section {
     margin: auto;
     box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.493);
 }
+img {
+    align-content: center;
+    width: 60%;
+    height: 60%;
+    border-radius: 95px;
+}
 footer {
     color: white;
     text-align: center;
