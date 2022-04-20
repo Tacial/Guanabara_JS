@@ -18,4 +18,5 @@ function carregar() {
         img.src = 'noite.jpg'
         document.body.style.background = '#515154'
     }
+    img.style.textAlign = 'center'
 }
